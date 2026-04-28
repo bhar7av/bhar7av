@@ -109,7 +109,7 @@
 ## 🚀 Featured Project
 
 ✨ **TutorNest** – Platform connecting students & tutors
-*(Add link here once deployed on custom domain)*
+https://tutornestjk.vercel.app/
 
 ---
 
