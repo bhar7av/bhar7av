@@ -122,5 +122,5 @@
 ---
 
 <p align="center">
-  💡 <i>"Don’t just learn tech. Build with it."</i>
+  💡 <i>"you are nothing if you didn't make it."</i>
 </p>
