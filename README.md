@@ -26,7 +26,6 @@
 
 ```diff
 + B.Tech Student | AI/ML Builder
-+ Creator of TutorNest 🚀
 + Focused on DSA (C++) + Scalable Systems
 ```
 
