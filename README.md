@@ -31,17 +31,7 @@
 
 ---
 
-## 🚀 Featured Project
 
-### 🌟 TutorNest
-
-💡 Platform connecting **students with tutors seamlessly**
-
-<p align="center">
-  <a href="https://tutornestjk.vercel.app/">
-    <img src="https://img.shields.io/badge/Visit%20Website-000?style=for-the-badge&logo=vercel"/>
-  </a>
-</p>
 
 * 🌐 Built using modern full-stack tools
 * ⚡ Fast, responsive & scalable
