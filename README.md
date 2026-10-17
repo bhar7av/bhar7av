@@ -21,13 +21,13 @@
 
 I'm an Information Technology student at NIT Srinagar interested in software engineering, machine learning, and backend development.
 
-I enjoy understanding how systems work, experimenting with new technologies, and building projects that solve practical problems. Most of my learning comes from implementing ideas, debugging them, and improving the result over time.
+I enjoy understanding how systems work, experimenting with technologies, and building projects that solve practical problems. Most of my learning comes from implementing ideas, debugging them, and improving the result over time.
 
-Currently, I'm spending time on:
+Currently, I'm focusing on:
 
 - Machine learning and time-series forecasting
 - Backend development and API design
-- Data structures and algorithms in C++
+- Data structures and algorithms in JAVA
 - Building and improving web applications
 
 ## Projects
@@ -57,7 +57,7 @@ A machine-learning project exploring forecasting methods for sequential data.
 
 <p>
   <strong>Languages</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,html,css,sql" alt="Programming languages" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,html,css" alt="Programming languages" />
 </p>
 
 <p>
@@ -70,7 +70,7 @@ A machine-learning project exploring forecasting methods for sequential data.
   <img src="https://skillicons.dev/icons?i=git,github,linux,firebase,vscode,idea" alt="Development tools" />
 </p>
 
-## GitHub Activity
+## GitHub Statistics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=bhar7av&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
@@ -78,14 +78,26 @@ A machine-learning project exploring forecasting methods for sequential data.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bhar7av&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com/?user=bhar7av&theme=transparent&hide_border=true&timezone=Asia%2FKolkata" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhar7av&theme=github-compact&hide_border=true" alt="GitHub contribution activity graph" />
 </p>
 
 ## Beyond Coding
 
-I'm interested in working on practical software products, collaborating with other developers, participating in hackathons, and exploring ideas that could grow into useful applications.
+I'm interested in building practical software products, collaborating with other developers, participating in hackathons, and exploring ideas that could grow into useful applications.
 
 I'm always open to learning from people who approach engineering differently.
+
+## Connect
+
+- **Portfolio:** [bhar7av-portfolio.vercel.app](https://bhar7av-portfolio.vercel.app)
+- **LinkedIn:** [bhargavkoushal](https://linkedin.com/in/bhargavkoushal)
+- **Instagram:** [@bhar7avkoushal](https://instagram.com/bhar7avkoushal)
+- **YouTube:** [@onenoneofnone](https://youtube.com/@onenoneofnone)
+- **Email:** [bhargavkoushal289@gmail.com](mailto:bhargavkoushal289@gmail.com)
 
 ---
 
